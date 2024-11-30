@@ -1,4 +1,4 @@
-#**User Behavior Analysis for Content Recommendation**#
+#**User Behavior Analysis for Content Recommendation**
 **Overview**
 This project focuses on analyzing user behavior to create personalized content recommendations. By leveraging machine learning techniques, we aim to enhance user engagement and satisfaction through precise recommendations.
 
